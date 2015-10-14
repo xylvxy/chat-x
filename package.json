@@ -1,0 +1,20 @@
+{
+  "name": "chat-x",
+  "description": "chat-x",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "underscore": ">= 1.5.2",
+    "async": ">= 0.7.7"
+  },
+  "main": "./app.js",
+  "scripts": {
+    "test": "mocha -b"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "gulp-mocha": "~2.0.1",
+    "gulp-ssh": "~0.3.3",
+    "mocha": "~2.2.4"
+  }
+}
