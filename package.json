@@ -6,7 +6,8 @@
   "dependencies": {
     "underscore": ">= 1.5.2",
     "async": ">= 0.7.7",
-    "redis": "~2.2.3"
+    "redis": "~2.2.3",
+    "node-polling": "0.0.4"
   },
   "main": "./app.js",
   "scripts": {
